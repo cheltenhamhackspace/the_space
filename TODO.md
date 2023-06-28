@@ -16,9 +16,18 @@
 ## Room specific Tasks
 
 ### Woodworking room
-1. [ ] Improve dust extraction
-2. [ ] Extend overhead extraction to connect with existing.
-3. [ ] Remove server cabinet
+- [ ] Improve dust extraction
+- [ ] Extend overhead extraction to connect with existing
+- [ ] Remove server cabinet
+- [ ] Create tool safety/usage sheets:
+  - [ ] Table saw
+  - [ ] Router table
+  - [ ] CNC router
+  - [ ] Bandsaw
+  - [ ] Planer & Thicknesser
+- [ ] Create tool map webapp
+- [ ] Hang peg boards
+- [ ] Clear left-hand shelves
 
 ### Sewing and Textile Room
 1. TBC
