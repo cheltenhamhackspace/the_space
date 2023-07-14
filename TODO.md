@@ -28,10 +28,10 @@
 - [ ] Create tool safety/usage sheets:
   - [ ] Table saw
   - [ ] Router table
-  - [ ] CNC router
+  - [X] CNC router
   - [ ] Bandsaw
   - [ ] Planer & Thicknesser
-- [ ] Create tool map webapp
+- [X] Create tool map webapp
 - [ ] Hang peg boards
 - [ ] Clear left-hand shelves
 
